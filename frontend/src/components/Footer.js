@@ -18,7 +18,6 @@ function Footer() {
           <FontAwesomeIcon icon={faFacebook} size="2x" />
         </a>
       </div>
-      <p>© 2025 Saravanan Ponraj. All rights reserved.</p>
     </footer>
   );
 }
